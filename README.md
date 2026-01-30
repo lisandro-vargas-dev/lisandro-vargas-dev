@@ -1,25 +1,33 @@
 # Hi, I'm Lisandro Vargas 👋
 
-Full Stack Software Engineer focused on **.NET (C#)** and **React**.  
-I build maintainable, production-ready web applications using clean code practices, modern architecture patterns, and CI/CD-friendly workflows.
+I’m a software engineer focused on building **reliable, maintainable web applications** with **.NET (C#)** and **React**.
+I enjoy modernizing legacy systems, designing clean APIs, and writing code that’s easy to evolve.
 
-## Tech Stack
-- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Authentication/Authorization
+---
+
+## Core Stack
+- **Backend:** .NET 8, C#, ASP.NET Core, REST APIs, Authentication/Authorization (JWT), Clean Architecture principles
 - **Frontend:** React, TypeScript
-- **Data:** SQL (SQL Server / MySQL), data modeling, performance basics
-- **DevOps:** Docker, CI/CD (GitHub Actions), Azure DevOps, Git
+- **Data:** SQL Server, data modeling, performance basics (joins, views, indexing fundamentals)
+- **DevOps/Tools:** Docker, CI/CD (GitHub Actions), Azure DevOps, Git
 
-## Portfolio (in progress)
-I’m building public projects to demonstrate:
-- Full Stack development (.NET + React)
-- Microservices + Docker Compose
-- Clean Architecture / SOLID / design patterns
-- Practical interview prep: .NET katas + SQL pack
+---
 
-## Open to
-- Full Stack (.NET + React) roles
-- Backend (.NET) roles
-- Location: **Madrid (hybrid/remote)**
+## What you'll find here
+This GitHub is my place for:
+- **Full-stack projects** (.NET + React) with clean architecture and production-style documentation
+- **API design and backend engineering** examples (validation, error handling, patterns)
+- **SQL practice packs** (queries, performance notes, data modeling)
+- **Interview katas** (C# fundamentals, async/await, LINQ, testing)
+
+---
+
+## Current focus
+- Building a **full-stack flagship project** with Docker Compose and CI pipelines
+- Improving system design skills (scalability, reliability, maintainability)
+- Writing clearer documentation and making projects easy to run locally
+
+---
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/lisandro-vargas-1051113a7/
