@@ -30,4 +30,4 @@ This GitHub is my place for:
 ---
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/lisandro-vargas-1051113a7/
+- LinkedIn: [lisandro-vargas/](https://www.linkedin.com/in/lisandro-vargas/)
